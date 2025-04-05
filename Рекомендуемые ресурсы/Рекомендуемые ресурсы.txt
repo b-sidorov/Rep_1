@@ -1,0 +1,5 @@
+Linux: «Linux для начинающих» (YouTube, Stepik)
+
+    SQL: «SQL для анализа данных» (Stepik, SQL Academy)
+
+    Docker/K8s: Официальная документация, «Kubernetes для начинающих» (YouTube)
